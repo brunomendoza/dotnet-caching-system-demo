@@ -1,0 +1,1 @@
+﻿Sistema simple de 'cache'.
