@@ -1,1 +1,0 @@
-Sistema simple de 'caching' utilizando System.Runtime.Caching.
